@@ -98,7 +98,7 @@ let sumOfNums = [];
 //
 //     - numOfSides with a value of 4
 //     - length with a value of side1
-//     - width with a value od side2
+//     - width with a value of side2
 //     - type with a value of 'parallelogram'
 //     - area with a value of the side1 times side2
 //
@@ -106,16 +106,16 @@ let sumOfNums = [];
 let side1 = 23;
 let side2 = 8;
 
-const planet = {
-  name: "Saturn",
-  rings: 9
-};
 // TASK 8:
 //
 //     Create an if...else statement where:
 //     - If the name of the planet is equal to 'Saturn', log the message
 //       'Saturn is the 6th planet from the Sun!
 //     - Otherwise, log the message 'You're not Saturn!'
+const planet = {
+  name: "Saturn",
+  rings: 9
+};
 
 /************** STRETCH EXERCISES **************/
 // TASK 9:
